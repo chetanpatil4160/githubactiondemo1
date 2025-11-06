@@ -1,0 +1,1 @@
+print("Load Data Into GCS/ADLS")
